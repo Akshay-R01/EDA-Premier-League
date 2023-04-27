@@ -1,0 +1,20 @@
+Labels to note :
+
+FTHG : Full time home goals.
+FTAG : Full time away goals.
+FTR : Full time Result.
+HTHG : Half time home goals.
+HTAG : Half time home goals.
+HTR : Half time home goals.
+HS : Home team shots.
+AS : Away team shots.
+HST : Home team shots on target.
+AST : Away team shots on target.
+HC : Home team corners.
+AC : Away team corners.
+HF : Home team Fouls.
+AF : Away team Fouls.
+HY : Home team yellow cards.
+AY : Away team yellow cards.
+HR : Home team red cards.
+AR : Away team red cards.
